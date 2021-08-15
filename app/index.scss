@@ -1,5 +1,5 @@
 body {
-  background-color: #eee;
+  background-color: rgb(38, 35, 206);
   display: flex;
   font-family: 'Muli', sans-serif;
 }
@@ -9,7 +9,7 @@ body {
   width: 50%;
   padding: 40px;
   border: 1px solid #ddd;
-  background-color: #fff;
+  background-color: rgb(87, 84, 84);
 }
 
 h1 {
@@ -32,8 +32,8 @@ input[type="text"] {
 }
 
 .button {
-  background-color: #f58427;
-  color: white;
+  background-color: #09f13b;
+  color: rgb(117, 116, 116);
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
